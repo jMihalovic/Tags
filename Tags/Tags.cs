@@ -46,7 +46,7 @@ namespace Tags
         public static string Formatovani(string text, string tag)
         {
             string result = "";
-            //Capital,
+            //Capital, Brackets, Reverse, Warning, Separated
             switch (tag) 
             {
 
